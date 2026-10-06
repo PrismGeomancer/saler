@@ -1,0 +1,147 @@
+{
+  "provider": "CoinGecko",
+  "retrieved": "2026-10-03",
+  "note": "Public coin identity images retrieved through CoinGecko metadata. Logos belong to their respective projects. Used for identification in an independent prototype.",
+  "coins": [
+    {
+      "id": "dogecoin",
+      "providerId": "dogecoin",
+      "file": "dogecoin.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
+      "sourcePage": "https://www.coingecko.com/en/coins/dogecoin"
+    },
+    {
+      "id": "shiba-inu",
+      "providerId": "shiba-inu",
+      "file": "shiba-inu.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
+      "sourcePage": "https://www.coingecko.com/en/coins/shiba-inu"
+    },
+    {
+      "id": "pepe",
+      "providerId": "pepe",
+      "file": "pepe.jpeg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+      "sourcePage": "https://www.coingecko.com/en/coins/pepe"
+    },
+    {
+      "id": "bonk",
+      "providerId": "bonk",
+      "file": "bonk.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
+      "sourcePage": "https://www.coingecko.com/en/coins/bonk"
+    },
+    {
+      "id": "dogwifhat",
+      "providerId": "dogwifcoin",
+      "file": "dogwifhat.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+      "sourcePage": "https://www.coingecko.com/en/coins/dogwifhat"
+    },
+    {
+      "id": "floki",
+      "providerId": "floki",
+      "file": "floki.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
+      "sourcePage": "https://www.coingecko.com/en/coins/floki"
+    },
+    {
+      "id": "popcat",
+      "providerId": "popcat",
+      "file": "popcat.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
+      "sourcePage": "https://www.coingecko.com/en/coins/popcat"
+    },
+    {
+      "id": "brett",
+      "providerId": "based-brett",
+      "file": "brett.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+      "sourcePage": "https://www.coingecko.com/en/coins/based-brett"
+    },
+    {
+      "id": "mog-coin",
+      "providerId": "mog-coin",
+      "file": "mog-coin.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
+      "sourcePage": "https://www.coingecko.com/en/coins/mog-coin"
+    },
+    {
+      "id": "pudgy-penguins",
+      "providerId": "pudgy-penguins",
+      "file": "pudgy-penguins.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "sourcePage": "https://www.coingecko.com/en/coins/pudgy-penguins"
+    },
+    {
+      "id": "turbo",
+      "providerId": "turbo",
+      "file": "turbo.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
+      "sourcePage": "https://www.coingecko.com/en/coins/turbo"
+    },
+    {
+      "id": "cat-in-a-dogs-world",
+      "providerId": "cat-in-a-dogs-world",
+      "file": "cat-in-a-dogs-world.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/36440/large/MEW.png?1711442286",
+      "sourcePage": "https://www.coingecko.com/en/coins/cat-in-a-dogs-world"
+    },
+    {
+      "id": "baby-doge",
+      "providerId": "baby-doge-coin",
+      "file": "baby-doge.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/16125/large/babydoge.jpg?1696515731",
+      "sourcePage": "https://www.coingecko.com/en/coins/baby-doge-coin"
+    },
+    {
+      "id": "neiro",
+      "providerId": "neiro",
+      "file": "neiro.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/39411/large/logo_new_%281%29.png?1722541389",
+      "sourcePage": "https://www.coingecko.com/en/coins/neiro"
+    },
+    {
+      "id": "snek",
+      "providerId": "snek",
+      "file": "snek.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/30496/large/Snek-Square-BG_200x200.png?1768638178",
+      "sourcePage": "https://www.coingecko.com/en/coins/snek"
+    },
+    {
+      "id": "toshi",
+      "providerId": "toshi",
+      "file": "toshi.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
+      "sourcePage": "https://www.coingecko.com/en/coins/toshi"
+    },
+    {
+      "id": "wojak",
+      "providerId": "wojak",
+      "file": "wojak.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/29856/large/wojak.png?1696528782",
+      "sourcePage": "https://www.coingecko.com/en/coins/wojak"
+    },
+    {
+      "id": "degen",
+      "providerId": "degen-base",
+      "file": "degen.png",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+      "sourcePage": "https://www.coingecko.com/en/coins/degen-base"
+    },
+    {
+      "id": "fartcoin",
+      "providerId": "fartcoin",
+      "file": "fartcoin.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+      "sourcePage": "https://www.coingecko.com/en/coins/fartcoin"
+    },
+    {
+      "id": "simon-cat",
+      "providerId": "simon-s-cat",
+      "file": "simon-cat.jpg",
+      "imageUrl": "https://coin-images.coingecko.com/coins/images/39765/large/Dv9GheV0_400x400.jpg",
+      "sourcePage": "https://www.coingecko.com/en/coins/simon-s-cat"
+    }
+  ]
+}
